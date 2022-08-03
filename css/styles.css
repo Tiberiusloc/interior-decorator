@@ -1,4 +1,7 @@
 .coulmn{
   width: 300px;
-  float: center;
+  float: left;
+}
+image{
+  float: right;
 }
